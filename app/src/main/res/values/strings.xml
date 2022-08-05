@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppBSide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonel Pacheco</string>
+    <string name="nav_header_subtitle">Evaluacion BSide</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Agregar Contacto</string>
+    <string name="menu_gallery">Consultar Contacto</string>
+    <string name="menu_slideshow">Peliculas</string>
+
+    <string name="btn_guardar">Guardar</string>
+    <!--row contacto-->
+    <string name="itemuser_txt_empleado">#567100</string>
+    <string name="itemuser_txt_telefono">Telefono</string>
+    <string name="itemuser_txt_email">Email</string>
+    <string name="itemuser_txt_direccion">Dirección</string>
+    <string name="formulario_etxt_empleado">Empleado</string>
+
+</resources>
