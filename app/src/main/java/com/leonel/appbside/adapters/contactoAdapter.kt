@@ -52,8 +52,6 @@ class contactoAdapter (private val mList: List<Contacto>, context: FragmentActiv
                 HomeFragment()
             ChangeFragment.changewhitData(HomeFragment(), manager  , bundle)
 
-
-
         })
 
 
